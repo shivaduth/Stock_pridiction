@@ -1,0 +1,5 @@
+username = <span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0" wfd-id="2139">Rajesh Tope</span>
+
+
+tweet = css-901oao
+<span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0" wfd-id="2030">Today, newly 26,616 patients have been tested as positive in the state. Also newly 48,211 patients have been cured today. Totally 48,74,582 patients are cured &amp; discharged from the hospitals. Total Active patients are 4,45,495  The patient recovery rate in the state is 90.19 %</span>
